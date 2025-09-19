@@ -35,7 +35,7 @@ ai-committee-meeting/
 1. **Create** new GitHub repository
 2. **Upload** all files
 3. **Enable Pages** in Settings → Pages
-4. **Share** the live URL: `https://yourusername.github.io/repository-name`
+4. **Share** the live URL: 'https://cynthialmcginnis.github.io/AI_Committee`
 
 ## 📧 Email Integration
 
