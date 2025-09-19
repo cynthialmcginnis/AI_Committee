@@ -98,7 +98,7 @@ Edit `script.js`:
 ## 🎯 Demo Links
 
 - **[View HTML Documentation](README.html)** - Styled documentation
-- **[Live Demo](https://yourusername.github.io/ai-committee-meeting)** - Replace with your URL
+- **[Live Demo](https://cynthialmcginnis.github.io/AI_Committee)** - Replace with your URL
 
 ## 📞 Contact
 
