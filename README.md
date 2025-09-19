@@ -41,14 +41,14 @@ ai-committee-meeting/
 
 ### 🔥 Recommended: Host + Link
 ```
-Subject: 🚀 AI Committee Meeting - Sept 29 at 3PM
+Subject: 🚀 AI Committee Meeting - Sept 29 at 3 PM, JST
 
 Hi Faculty,
 
 Ready to revolutionize education with AI?
 
 👉 Interactive Meeting Details: 
-https://yourusername.github.io/ai-committee-meeting
+https://cynthialmcginnis.github.io/AI_Committee
 
 🗓️ September 29 at 3:00 PM
 🎯 Bring your AI wins, fails, and questions!
