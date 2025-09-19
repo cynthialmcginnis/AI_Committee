@@ -95,10 +95,7 @@ Edit `script.js`:
 | Safari | ✅ Full support |
 | Mobile | ✅ Responsive design |
 
-## 🎯 Demo Links
 
-- **[View HTML Documentation](README.html)** - Styled documentation
-- **[Live Demo](https://cynthialmcginnis.github.io/AI_Committee)** - Replace with your URL
 
 ## 📞 Contact
 
